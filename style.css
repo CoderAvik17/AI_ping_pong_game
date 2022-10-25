@@ -1,4 +1,8 @@
-body
+.footer
 {
-
+    position: fixed;
+    background-color: red;
+    color: white;
 }
+
+
